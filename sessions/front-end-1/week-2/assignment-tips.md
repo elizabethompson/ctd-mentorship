@@ -63,6 +63,7 @@ Add an "extra-large" modal component to the `index.html` file, containing the fo
 1. [Use the Bootstrap "Starter Template"](#tip-1-use-the-bootstrap-starter-template)
 2. [Leverage built-in JavaScript for modal triggers](#tip-2-leverage-built-in-javascript-for-modal-triggers)
 3. [Use the Bootstrap "Input Group" component](#tip-3-use-the-bootstrap-input-group-component)
+4. [Use the Bootstrap CSS instead of writing your own](#tip-4-use-the-bootstrap-css-instead-of-writing-your-own)
 
 ### Tip 1: Use the Bootstrap "Starter Template"
 
@@ -97,3 +98,7 @@ There is a built-in "Bootstrap" component called "Input Group" that you can use 
 
 </div>
 ```
+
+### Tip 4: Use the Bootstrap CSS instead of writing your own
+
+Bootstrap comes with many layouts, components, and utilities so you shouldn't need to write any CSS for this assignment.
