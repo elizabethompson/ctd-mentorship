@@ -6,16 +6,21 @@
 
 ### Step 1: Create a "Landing" page
 
-<p align="right">
-  <img align="right" width="50%" height="auto" src="img/assignment-landing-page.png" alt="Mockup for landing page" />
-  <em>Figure 1: Landing Page</em>
-</p>
+<img align="right" width="50%" height="auto" src="img/assignment-landing-page.png" alt="Mockup for landing page" />
 
 Turn the provided `index.html` file into a landing page for the form dialogs, containing the following elements:
 
 - [ ] Large heading with text "Form templates"
 - [ ] Button with text "Reservation"
 - [ ] Button with text "Application"
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 ### Step 2: Create a "Reservation" form dialog
 
@@ -32,6 +37,8 @@ Add a "regular" modal component to the `index.html` file, containing the followi
 - [ ] Select menu with label "Time", icon, and options ranging from "10:00 AM" to "12:00 AM"
 - [ ] Select menu with label "Attendees", icon, and options ranging from 1 to 20
 - [ ] Submit button with text "Reserve"
+
+<br/>
 
 ### Step 3: Create an "Application" form dialog
 
@@ -69,7 +76,7 @@ Bootstrap provides built-in JavaScript functionality which can be activated usin
 
 To get your "Landing" page buttons to trigger the "Reservation" and "Application" form dialogs, make sure to add a `data-target` attribute that matches the `id` of the modals.
 
-Learn more about [Bootstrap Modal Triggers](https://getbootstrap.com/docs/4.5/components/modal/#live-demo)
+> Learn more about [Bootstrap Modal Triggers](https://getbootstrap.com/docs/4.5/components/modal/#live-demo)
 
 ### Tip 3: Use the Bootstrap "Input Group" component
 
