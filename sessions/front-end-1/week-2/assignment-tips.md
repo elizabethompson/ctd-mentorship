@@ -64,6 +64,7 @@ Add an "extra-large" modal component to the `index.html` file, containing the fo
 2. [Leverage built-in JavaScript for modal triggers](#tip-2-leverage-built-in-javascript-for-modal-triggers)
 3. [Use the Bootstrap "Input Group" component](#tip-3-use-the-bootstrap-input-group-component)
 4. [Use the Bootstrap CSS instead of writing your own](#tip-4-use-the-bootstrap-css-instead-of-writing-your-own)
+5. [Use the pattern attribute to validate phone input fields](#tip-5-use-the-pattern-attribute-to-validate-phone-input-fields)
 
 ### Tip 1: Use the Bootstrap "Starter Template"
 
@@ -102,3 +103,18 @@ There is a built-in "Bootstrap" component called "Input Group" that you can use 
 ### Tip 4: Use the Bootstrap CSS instead of writing your own
 
 Bootstrap comes with many layouts, components, and utilities so you shouldn't need to write any CSS for this assignment.
+
+### Tip 5: Use the pattern attribute to validate phone input fields
+
+The `pattern` attribute is supported by `tel` (phone) input types and allows you to specify the regular expression pattern to be matched during form validation.
+
+Example:
+
+```html
+<!-- format: 000-000-0000 -->
+<input type="tel" pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}" />
+```
+
+> Learn more about [input pattern attribute](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/tel#pattern)
+
+> Here's a resource for building and testing regular expressions: [https://regexr.com](https://regexr.com/)
