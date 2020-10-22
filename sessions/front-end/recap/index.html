@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <title>FE1 Recap | Code the Dream</title>
+
+    <!-- css: bootstrap -->
+    <link
+      rel="stylesheet"
+      href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+      integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z"
+      crossorigin="anonymous"
+    />
+
+    <!-- css: other -->
+    <link rel="stylesheet" href="./index.css" />
+  </head>
+  <body>
+    <header>
+      <!-- component: navbar -->
+      <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+        <div class="container">
+          <a class="navbar-brand" href="#">Front End 1</a>
+
+          <button
+            class="navbar-toggler"
+            type="button"
+            data-toggle="collapse"
+            data-target="#navbarMenu"
+            aria-controls="navbarMenu"
+            aria-expanded="false"
+            aria-label="Toggle navigation"
+          >
+            <span class="navbar-toggler-icon"></span>
+          </button>
+
+          <div class="collapse navbar-collapse" id="navbarMenu">
+            <ul class="navbar-nav mr-auto">
+              <li class="nav-item">
+                <a class="nav-link" href="#section1">Section 1</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#section2">Section 2</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#section3">Section 3</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#section4">Section 4</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#section5">Section 5</a>
+              </li>
+            </ul>
+
+            <button
+              class="btn btn-outline-light my-2 my-sm-0"
+              type="button"
+              data-toggle="modal"
+              data-target="#feedbackModal"
+            >
+              Send Feedback
+            </button>
+          </div>
+        </div>
+      </nav>
+      <!-- /component: navbar -->
+    </header>
+
+    <main>
+      <!-- component: jumbotron -->
+      <div class="jumbotron jumbotron-fluid bg-primary-tint text-light text-center vh-50 d-flex align-items-center">
+        <div class="container">
+          <h1 class="h1">Front End 1: Recap</h1>
+          <p class="lead">This webpage reviews all the learning objectives from Front End 1</p>
+          <button type="button" class="btn btn-outline-light btn-lg" href="#">View on GitHub</button>
+        </div>
+      </div>
+      <!-- /component: jumbotron -->
+
+      <!-- course modules -->
+      <div class="container" data-target="modules"></div>
+      <!-- /course modules -->
+    </main>
+
+    <!-- component: footer -->
+    <footer class="bg-light py-5 text-center">
+      <div class="container">
+        <p>
+          Front End 1 Recap for <a href="https://codethedream.org/" target="_blank">Code the Dream</a> by
+          <a href="https://github.com/elizabethompson" target="_blank">@elizabethompson</a>
+        </p>
+        <p class="mb-0">
+          <a href="#">Back to top</a>
+        </p>
+      </div>
+    </footer>
+    <!-- /component: footer -->
+
+    <!-- component: modal -->
+    <div class="modal fade" id="feedbackModal" tabindex="-1" aria-labelledby="feedbackModalLabel" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h5 class="modal-title" id="feedbackModalLabel">Send Feedback</h5>
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+              <span aria-hidden="true">&times;</span>
+            </button>
+          </div>
+          <form class="needs-validation" novalidate>
+            <div class="modal-body">
+              <div class="alert alert-secondary" role="alert">This form is for demonstration purposes only.</div>
+              <div class="form-group">
+                <label for="feedbackName">Name</label>
+                <input type="text" class="form-control" id="feedbackName" name="name" required />
+              </div>
+              <div class="form-group">
+                <label for="feedbackEmail">Email address</label>
+                <input type="email" class="form-control" id="feedbackEmail" name="email" required />
+              </div>
+              <div class="form-group">
+                <label for="feedbackMessage">Message</label>
+                <textarea class="form-control" id="feedbackMessage" name="message" rows="3"></textarea>
+              </div>
+            </div>
+            <div class="modal-footer">
+              <button type="submit" class="btn btn-primary">Submit</button>
+            </div>
+          </form>
+        </div>
+      </div>
+    </div>
+    <!-- /component: modal -->
+
+    <!-- javascript: bootstrap -->
+    <script
+      src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
+      integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
+      crossorigin="anonymous"
+    ></script>
+    <script
+      src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"
+      integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN"
+      crossorigin="anonymous"
+    ></script>
+    <script
+      src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"
+      integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV"
+      crossorigin="anonymous"
+    ></script>
+
+    <!-- javascript: other -->
+    <script type="text/javascript" src="./index.js"></script>
+  </body>
+</html>

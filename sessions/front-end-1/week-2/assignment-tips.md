@@ -118,3 +118,9 @@ Example:
 > Learn more about [input pattern attribute](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/tel#pattern)
 
 > Here's a resource for building and testing regular expressions: [https://regexr.com](https://regexr.com/)
+
+### Tip 6: Use the min and value attributes to validate date input fields
+
+...
+
+> Learn more about [date input fields](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/date)

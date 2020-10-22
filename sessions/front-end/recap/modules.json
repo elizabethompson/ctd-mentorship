@@ -1,0 +1,238 @@
+[
+  {
+    "moduleNum": "2.3",
+    "name": "CSS Basics",
+    "path": "/css-basics",
+    "type": "Course",
+    "preview": {
+      "path": "TH-CSS-Basics-Trailerapp-stills-0.jpg",
+      "token": "6140e837_ead28e8698d99ae34e20fc727b55494a2be81be7",
+      "sources": [
+        {
+          "type": "video/webm",
+          "path": "TH-CSS-Basics-Trailerapp-720p.webm",
+          "token": "5f6bd9b6_88038510e0da0d75a361ec65b4e26af71077d340"
+        },
+        {
+          "type": "video/mp4",
+          "path": "TH-CSS-Basics-Trailerapp-720p.mp4",
+          "token": "5f6bd9b6_f427f1ea06583049b737ea817475d046a932e9f3"
+        }
+      ]
+    },
+    "sectionId": 1,
+    "details": {
+      "learningObjectives": [
+        "Basic Selectors",
+        "Common Values and Units",
+        "CSS Layout",
+        "New CSS Features"
+      ],
+      "contentPath": ""
+    }
+  },
+  {
+    "moduleNum": "2.4",
+    "name": "Debugging CSS with Chrome DevTools",
+    "path": "/debugging-css-with-chrome-devtools",
+    "type": "Workshop",
+    "preview": {
+      "path": "TH-WS-Debugging-CSS-with-Chrome-DevTools-V1-stills-4.jpg",
+      "token": "61302198_4984cc2a42d63f6a1bac151c49cc3acf934d9b62"
+    },
+    "sectionId": 1,
+    "details": {}
+  },
+  {
+    "moduleNum": "2.5",
+    "name": "CSS Layout Basics",
+    "path": "/css-layout-basics",
+    "type": "Course",
+    "preview": {
+      "path": "TH-CSS_LayoutBasics_Trailer-stills-0.jpg",
+      "token": "6140e937_5f889762a8c986b4bd4c02a3989650d62730b54c"
+    },
+    "sectionId": 1,
+    "details": {}
+  },
+  {
+    "moduleNum": "2.6",
+    "name": "Responsive Layouts",
+    "path": "/responsive-layouts",
+    "type": "Course",
+    "preview": {
+      "path": "TH-ResponsiveLayouts-Trailer-stills-0.jpg",
+      "token": "6140e99d_cac1587d2245b19b32fe9125818961b50d3d6f18"
+    },
+    "sectionId": 1,
+    "details": {}
+  },
+  {
+    "moduleNum": "2.7",
+    "name": "CSS Flexbox Layout",
+    "path": "/css-flexbox-layout",
+    "type": "Course",
+    "preview": {
+      "path": "TH-CSS_FlexboxLayout_TrailerAPP-stills-0.jpg",
+      "token": "6140ea32_2ca8a22877ba84364df57d29e7a93e5452be889e"
+    },
+    "sectionId": 1,
+    "details": {}
+  },
+  {
+    "moduleNum": "2.8",
+    "name": "HTML Forms",
+    "path": "/html-forms",
+    "type": "Course",
+    "preview": {
+      "path": "Trailer_HTMLForms-stills-1.jpg",
+      "token": "6140ea46_cf086d10f3312f7bfbe89af920850c6d1f15cc7b"
+    },
+    "sectionId": 2,
+    "details": {}
+  },
+  {
+    "name": "CSS Selectors",
+    "moduleNum": "2.9",
+    "path": "/css-selectors",
+    "type": "Course",
+    "preview": {
+      "path": "TH-CSS_Selectors_Trailer-stills-0.jpg",
+      "token": "6140ea5e_c737bda806b449ef15517d50571dcf998955b85e"
+    },
+    "sectionId": 2,
+    "details": {}
+  },
+  {
+    "moduleNum": "2.10",
+    "name": "Bootstrap 4 Basics",
+    "path": "/bootstrap-4-basics-2",
+    "type": "Course",
+    "preview": {
+      "path": "TH-BootstrapBasics-TrailerAdmin-stills-0.jpg",
+      "token": "6140ea75_967932a7ee9f83ffa79c59c848406de907fbc02e"
+    },
+    "sectionId": 2,
+    "details": {}
+  },
+  {
+    "name": "HTML Tables",
+    "moduleNum": "2.11",
+    "path": "/html-tables",
+    "type": "Course",
+    "preview": {
+      "path": "TH-HTMLTables-Trailer_1-stills-0.jpg",
+      "token": "6140ea86_986649f27fbc739149052062e61b568cb0547944"
+    },
+    "sectionId": 3,
+    "details": {}
+  },
+  {
+    "moduleNum": "2.12",
+    "name": "HTML Video and Audio",
+    "path": "/html-video-and-audio-2",
+    "type": "Course",
+    "preview": {
+      "path": "TH-HTMLVideo-Stage1-Video1-stills-0.jpg",
+      "token": "6140ea99_ec80ce767d28651bff5b9a53d3316be1213fa03a"
+    },
+    "sectionId": 3,
+    "details": {}
+  },
+  {
+    "moduleNum": "2.13",
+    "name": "Create a Media Player with MediaElement.js",
+    "path": "/create-a-media-player-with-mediaelementjs",
+    "type": "Workshop",
+    "preview": {
+      "path": "TH-WS-Create-a-Media-Player-with-MediaElement.js-V1-stills-6.jpg",
+      "token": "6140eaaf_8e5094c01cb727d5c28fcbe5c16998e7bbb6dcbd"
+    },
+    "sectionId": 3,
+    "details": {}
+  },
+  {
+    "moduleNum": "2.14",
+    "name": "Intro to Front End Performance Optimization",
+    "path": "/introduction-to-front-end-performance-optimization",
+    "type": "Course",
+    "preview": {
+      "path": "TH-FEO-Trailer-stills-3.jpg",
+      "token": "6140eacd_a5298ae9d9e71f1e29277927a051b69a2f2f9d09"
+    },
+    "sectionId": 3,
+    "details": {}
+  },
+  {
+    "moduleNum": "4.14",
+    "name": "AJAX Basics",
+    "path": "/ajax-basics-2",
+    "type": "Course",
+    "preview": {
+      "path": "TH-AJAX-Stage1-Video1_V2-stills-1.jpg",
+      "token": "6140eaea_400add8c2b9fa75f70750f5d7b7c2c70a8963e6c"
+    },
+    "sectionId": 4,
+    "details": {}
+  },
+  {
+    "moduleNum": "4.15",
+    "name": "Asynchronous Programming with JavaScript",
+    "path": "/asynchronous-programming-with-javascript",
+    "type": "Course",
+    "preview": {
+      "path": "JavaScript-AsynchronousProgramming-Trailer-stills-0.jpg",
+      "token": "6140eb0e_b1c2e2e0dd06e44d262868328b4a7d2f7f252d91"
+    },
+    "sectionId": 4,
+    "details": {}
+  },
+  {
+    "moduleNum": "4.16",
+    "name": "Working with the Fetch API",
+    "path": "/working-with-the-fetch-api",
+    "type": "Workshop",
+    "preview": {
+      "path": "TH-WS-Fetch-API-V1-stills-0.jpg",
+      "token": "613022cd_70c76b65896a7605d96e11587bfe1c7dcf16a440"
+    },
+    "sectionId": 4,
+    "details": {}
+  },
+  {
+    "moduleNum": "5.17",
+    "name": "Object-Oriented JavaScript",
+    "path": "/objectoriented-javascript-2",
+    "type": "Course",
+    "preview": {
+      "path": "TH-OOJS-Refresh-Trailer-stills-0.jpg",
+      "token": "6140eb3d_98ff7dc8aa99ac77153296ac72dc0db01b0c6869"
+    },
+    "sectionId": 5,
+    "details": {}
+  },
+  {
+    "moduleNum": "5.18",
+    "name": "Web Accessibility Compliance",
+    "path": "/web-accessibility-compliance",
+    "type": "Course",
+    "preview": {
+      "path": "TH-WebAccessibilityCompliance-TrailerAdmin-stills-0.jpg",
+      "token": "6140eb5c_c85b587c2bd83e7a0303c6d080f6859ff328894c"
+    },
+    "sectionId": 5,
+    "details": {}
+  },
+  {
+    "moduleNum": "5.19",
+    "name": "Website Optimization",
+    "path": "/website-optimization",
+    "type": "Course",
+    "preview": {
+      "path": "TH-ChromeDevTools-Video1-stills-0.jpg",
+      "token": "6140eb6d_942a95bd6f7724e8daee1e27b2bde5cd7dea41cd"
+    },
+    "sectionId": 5,
+    "details": {}
+  }
+]

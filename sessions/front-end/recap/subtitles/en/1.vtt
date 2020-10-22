@@ -1,0 +1,69 @@
+WEBVTT
+
+00:00:00.360 --> 00:00:00.970 align:middle line:84%
+Hi, everyone.
+
+00:00:00.970 --> 00:00:05.280 align:middle line:90%
+I'm Guil, and in this course, we're gonna
+learn about the wonders of CSS or
+
+00:00:05.280 --> 00:00:06.740 align:middle line:84%
+cascading style sheets.
+
+00:00:06.740 --> 00:00:09.190 align:middle line:90%
+It's one of the core technologies for
+designing and
+
+00:00:09.190 --> 00:00:11.390 align:middle line:84%
+building websites and applications.
+
+00:00:11.390 --> 00:00:13.280 align:middle line:84%
+So, no matter what kind of website or
+
+00:00:13.280 --> 00:00:16.860 align:middle line:90%
+web app you wanna build, you'll have to
+use CSS.
+
+00:00:16.860 --> 00:00:21.450 align:middle line:90%
+You might have already used CSS, or you've
+seen it in action in previous courses.
+
+00:00:21.450 --> 00:00:22.220 align:middle line:84%
+In this course,
+
+00:00:22.220 --> 00:00:26.850 align:middle line:90%
+we're gonna dive a little deeper into many
+of the core concepts of CSS.
+
+00:00:26.850 --> 00:00:29.940 align:middle line:90%
+To get familiar with the most important
+part of css,
+
+00:00:29.940 --> 00:00:34.690 align:middle line:90%
+we'll build a simple landing page for the
+beautiful city of Lake Tahoe, California.
+
+00:00:34.690 --> 00:00:38.190 align:middle line:90%
+First we'll learn the different ways we
+can apply CSS to a page.
+
+00:00:38.190 --> 00:00:42.090 align:middle line:90%
+Then we'll add those nice design layers
+with basic selectors,
+
+00:00:42.090 --> 00:00:44.100 align:middle line:84%
+common CSS properties and values.
+
+00:00:44.100 --> 00:00:47.420 align:middle line:90%
+We'll even use some of the latest features
+in CSS.
+
+00:00:47.420 --> 00:00:51.190 align:middle line:90%
+By the end of this course, you'll be a few
+steps closer to being a CSS pro.
+
+00:00:51.190 --> 00:00:52.620 align:middle line:84%
+Are you ready?
+
+00:00:52.620 --> 00:00:57.620 align:middle line:84%
+Then let's get started.

@@ -1,0 +1,18 @@
+.vh-50 {
+  height: 50vh;
+}
+
+.bg-primary-tint {
+  background-color: #3395ff !important;
+}
+
+.card-footer .col:not(:last-of-type)::after {
+  content: '';
+  background-color: rgba(0, 0, 0, 0.125);
+  position: absolute;
+  right: 0;
+  top: 0;
+  margin-top: -0.75rem;
+  height: calc(100% + 1.5rem);
+  width: 1px;
+}

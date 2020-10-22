@@ -1,4 +1,4 @@
-🗓 Front End 1: Week 2
+🗓 Front End 1: Week 4
 
 --------------------------------------------------------------------
 **Reminder:**
@@ -15,15 +15,15 @@ _Agenda:_
 3. Present assignment work (if applicable)
 
 _Learning Objectives:_
-- Forms and form elements in HTML
-- Advanced CSS selectors and pseudo-elements
-- UI frameworks (ex. Bootstrap) and how to use them
+- AJAX (Asynchronous JavaScript and XML)
+- Synchronous vs. asynchronous programming
+- Fetch API
 
 _Treehouse Units:_
-- 2.8  HTML Forms
-- 2.9  CSS Selectors
-- 2.10 Bootstrap Basics 
+- 4.14 AJAX Basics
+- 4.15 Async JavaScript
+- 4.16 Fetch API
 
 _Assignment:_
-- Develop two form dialog templates using Bootstrap 4
-- https://classroom.github.com/a/WzwfrqPv
+- Retrieve and display weather data using API
+- https://classroom.github.com/a/LLJxwVxV

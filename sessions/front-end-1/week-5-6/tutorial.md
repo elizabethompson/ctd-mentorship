@@ -339,3 +339,12 @@ _Example 5a:_
   <br/>
   <a href="#">Back to top</a>
 </p>
+
+---
+
+### Create "Add Course" form
+### Create "Edit Info" form
+### Re-render "Students" card layout
+
+### Create "Add Student" form
+### Re-render "Courses" card layout
